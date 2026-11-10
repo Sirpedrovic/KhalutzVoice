@@ -2,11 +2,11 @@
 
 Baixe o instalador ou a versão portátil para Windows na página de [versões](https://github.com/Sirpedrovic/KhalutzVoice/releases).
 
-## Versão 0.3.8
+## Versão 0.3.9
 
-- A sala mostra tentativas sem rota e registra as etapas da conexão para diagnóstico.
-- **Assistir juntos** indica as sessões ativas no canal de voz e ajusta a reprodução para acompanhar a sala.
-- O diagnóstico reúne os eventos da sessão e pode incluir um teste de rede ao copiar o log.
+- **Assistir juntos** mantém o player do anfitrião na velocidade normal. Os convidados acompanham a posição da sala.
+- **Configurações → Diagnóstico → Limpar log** apaga os registros anteriores.
+- O painel de administrador pode ser aberto com a senha em qualquer instalação com acesso ao grupo.
 
 ## Atualizações
 
