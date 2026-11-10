@@ -2,11 +2,12 @@
 
 Baixe o instalador ou a versão portátil para Windows na página de [versões](https://github.com/Sirpedrovic/KhalutzVoice/releases).
 
-## Versão 0.3.9
+## Versão 0.3.10
 
-- **Assistir juntos** mantém o player do anfitrião na velocidade normal. Os convidados acompanham a posição da sala.
-- **Configurações → Diagnóstico → Limpar log** apaga os registros anteriores.
-- O painel de administrador pode ser aberto com a senha em qualquer instalação com acesso ao grupo.
+- Compartilhamento de tela com áudio do computador no Windows e preferência por codificação acelerada quando disponível.
+- Aceleração de hardware ligada por padrão e troca de microfone durante a chamada.
+- Moderação de voz e chat no painel de administrador.
+- Diagnóstico da sala com tentativas de conexão, problemas de mídia e relatório copiável.
 
 ## Atualizações
 
