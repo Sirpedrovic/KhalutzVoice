@@ -2,11 +2,11 @@
 
 Baixe o instalador ou a versão portátil para Windows na página de [versões](https://github.com/Sirpedrovic/KhalutzVoice/releases).
 
-## Versão 0.3.7
+## Versão 0.3.8
 
-- **Assistir juntos** abre uma sessão de vídeo do YouTube no canal de voz.
-- O **X** recolhe o aplicativo para a bandeja e mantém a chamada ativa. Use **Sair do KhalutzVoice** no menu da bandeja para encerrar.
-- O bot de música foi removido. As prévias de links do YouTube continuam disponíveis no chat.
+- A sala mostra tentativas sem rota e registra as etapas da conexão para diagnóstico.
+- **Assistir juntos** indica as sessões ativas no canal de voz e ajusta a reprodução para acompanhar a sala.
+- O diagnóstico reúne os eventos da sessão e pode incluir um teste de rede ao copiar o log.
 
 ## Atualizações
 
