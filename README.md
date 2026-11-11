@@ -2,9 +2,14 @@
 
 Texto, voz, arquivos, música e compartilhamento de tela para Windows.
 
-[Baixar instalador 0.3.23](https://github.com/Sirpedrovic/KhalutzVoice/releases/download/v0.3.23/KhalutzVoice-Setup-0.3.23.exe) · [Versão portátil e notas](https://github.com/Sirpedrovic/KhalutzVoice/releases/tag/v0.3.23)
+[Baixar instalador 0.3.24](https://github.com/Sirpedrovic/KhalutzVoice/releases/download/v0.3.24/KhalutzVoice-Setup-0.3.24.exe) · [Versão portátil e notas](https://github.com/Sirpedrovic/KhalutzVoice/releases/tag/v0.3.24)
 
 O primeiro ingresso exige o kit privado do seu grupo. As atualizações preservam o acesso e os dados locais.
+
+## Versão 0.3.24
+
+- **Khalutz Music** carrega as músicas mais rápido: o áudio vem em qualidade de até 80 kbps, quase metade do tamanho. Numa música de 5 minutos, o tempo até começar a tocar caiu cerca de 50% no teste.
+- No painel de administração, **Forçar atualização de todos** desconecta os participantes online, instala a versão mais recente e reinicia o app de cada um. Vale para quem já estiver nesta versão.
 
 ## Versão 0.3.23
 
