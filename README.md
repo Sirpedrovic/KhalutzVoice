@@ -2,9 +2,14 @@
 
 Texto, voz, arquivos, música e compartilhamento de tela para Windows.
 
-[Baixar instalador 0.3.24](https://github.com/Sirpedrovic/KhalutzVoice/releases/download/v0.3.24/KhalutzVoice-Setup-0.3.24.exe) · [Versão portátil e notas](https://github.com/Sirpedrovic/KhalutzVoice/releases/tag/v0.3.24)
+[Baixar instalador 0.3.25](https://github.com/Sirpedrovic/KhalutzVoice/releases/download/v0.3.25/KhalutzVoice-Setup-0.3.25.exe) · [Versão portátil e notas](https://github.com/Sirpedrovic/KhalutzVoice/releases/tag/v0.3.25)
 
 O primeiro ingresso exige o kit privado do seu grupo. As atualizações preservam o acesso e os dados locais.
+
+## Versão 0.3.25
+
+- **Khalutz Music** não mostra mais o erro "EPERM: operation not permitted, rename" no Windows, que tirava a música da fila e travava o áudio de quem ouvia.
+- Pôr música na fila não faz mais a música atual pular ou travar para quem está ouvindo.
 
 ## Versão 0.3.24
 
