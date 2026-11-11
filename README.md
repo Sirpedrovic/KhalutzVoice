@@ -2,23 +2,18 @@
 
 Texto, voz, arquivos e compartilhamento de tela para Windows.
 
-[Baixar o instalador 0.3.14](https://github.com/Sirpedrovic/KhalutzVoice/releases/download/v0.3.14/KhalutzVoice-Setup-0.3.14.exe) · [Versão portátil e notas completas](https://github.com/Sirpedrovic/KhalutzVoice/releases/tag/v0.3.14)
+[Baixar instalador 0.3.15](https://github.com/Sirpedrovic/KhalutzVoice/releases/download/v0.3.15/KhalutzVoice-Setup-0.3.15.exe) · [Versão portátil e notas](https://github.com/Sirpedrovic/KhalutzVoice/releases/tag/v0.3.15)
 
-O primeiro ingresso exige o kit privado do seu grupo. As atualizações preservam o acesso salvo e os dados locais. Este repositório distribui o aplicativo; o código é mantido separadamente.
+O primeiro ingresso exige o kit privado do seu grupo. As atualizações preservam o acesso e os dados locais.
 
-## Versão 0.3.14
+## Versão 0.3.15
 
-- Administração pelo perfil do participante, exclusão de mensagens de terceiros, limpeza sincronizada do canal e efeito retrô direcionado.
-- Contadores de cutucadas confirmadas, sensibilidade automática/manual/sem limiar e microfone silenciado junto com os fones.
-- Configurações fecham por Esc ou clique fora, com Salvar e Cancelar sempre visíveis. Transmissões oferecem volume, mudo e ajuste de imagem em tela cheia.
-- Painel de armazenamento, prévia da limpeza, retenção configurável de anexos e compactação separada do histórico. Padrões de 30 dias e 500 MB por computador; perfis existentes revisam a prévia antes de ativar a limpeza automática.
-- Modo em segundo plano para continuar ajudando a rede após encerrar a mídia. O X mantém a chamada; Encerrar completamente termina o aplicativo.
-- Preparação assistida do Firewall do Windows e IPv6, além de encaminhamento de voz quando houver um participante conectado às duas pontas.
+- Foto de perfil com recorte, prévia e sincronização entre participantes.
+- Administração lembrada na conta do Windows, com opção para remover a autorização.
+- Bandeja com **Abrir Khalutz** e **Fechar Khalutz**. Fechar encerra a mídia local e mantém a conexão em segundo plano.
+- Player de compartilhamento redimensionável por arraste, teclado ou botões.
+- Sons configuráveis de entrada e saída do servidor.
 
-Todos os participantes precisam atualizar para aplicar a limpeza de canal. A compactação preserva os eventos comprimidos e exige cliente compatível para reabrir o perfil. A conectividade ainda depende das redes envolvidas; esta versão não inclui um serviço TURN de produção.
+A edição instalada verifica atualizações ao abrir e reinicia após instalar. A portátil avisa e abre a página de download.
 
-## Atualizações
-
-A edição instalada, a partir da versão 0.3.5, verifica atualizações ao abrir. Quando confirma uma nova versão, baixa e reinicia antes de entrar no Khalutz. A edição portátil avisa e abre a página de download.
-
-As [releases anteriores](https://github.com/Sirpedrovic/KhalutzVoice/releases) continuam disponíveis para consulta.
+[Releases anteriores](https://github.com/Sirpedrovic/KhalutzVoice/releases)
