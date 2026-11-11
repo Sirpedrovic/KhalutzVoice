@@ -2,9 +2,15 @@
 
 Texto, voz, arquivos, música e compartilhamento de tela para Windows.
 
-[Baixar instalador 0.3.25](https://github.com/Sirpedrovic/KhalutzVoice/releases/download/v0.3.25/KhalutzVoice-Setup-0.3.25.exe) · [Versão portátil e notas](https://github.com/Sirpedrovic/KhalutzVoice/releases/tag/v0.3.25)
+[Baixar instalador 0.3.26](https://github.com/Sirpedrovic/KhalutzVoice/releases/download/v0.3.26/KhalutzVoice-Setup-0.3.26.exe) · [Versão portátil e notas](https://github.com/Sirpedrovic/KhalutzVoice/releases/tag/v0.3.26)
 
 O primeiro ingresso exige o kit privado do seu grupo. As atualizações preservam o acesso e os dados locais.
+
+## Versão 0.3.26
+
+- **Khalutz Music**: `!p` começa a tocar na hora mesmo quando o bot estava pausado sem música (depois de ficar sem ouvintes ou de uma atualização). Antes a música ficava em "Preparando áudio…".
+- **Forçar atualização de todos** alcança todo o servidor: quem estiver online atualiza na hora e quem estiver fora atualiza assim que se conectar.
+- Ações do administrador agem na hora: mover, expulsar do canal, silenciar e ensurdecer não esperam a confirmação do participante, e apagar mensagens de outras pessoas e forçar a atualização não pedem confirmação. **Limpar canal** continua pedindo o nome do canal.
 
 ## Versão 0.3.25
 
