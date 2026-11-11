@@ -2,11 +2,13 @@
 
 Texto, voz, arquivos, música e compartilhamento de tela para Windows.
 
-[Baixar instalador 0.3.19](https://github.com/Sirpedrovic/KhalutzVoice/releases/download/v0.3.19/KhalutzVoice-Setup-0.3.19.exe) · [Versão portátil e notas](https://github.com/Sirpedrovic/KhalutzVoice/releases/tag/v0.3.19)
+[Baixar instalador 0.3.20](https://github.com/Sirpedrovic/KhalutzVoice/releases/download/v0.3.20/KhalutzVoice-Setup-0.3.20.exe) · [Versão portátil e notas](https://github.com/Sirpedrovic/KhalutzVoice/releases/tag/v0.3.20)
 
 O primeiro ingresso exige o kit privado do seu grupo. As atualizações preservam o acesso e os dados locais.
 
-## Versão 0.3.19
+## Versão 0.3.20
+
+- **Servidor de jogo** no canto inferior direito. Para Minecraft Java, o anfitrião informa a porta do mundo em LAN. Cada jogador clica em Conectar e cola o endereço local gerado em Multijogador → Conexão direta. A sala aceita um servidor por vez.
 
 - Texto legível no seletor de imagem e no botão de áudio do compartilhamento em tela cheia.
 - **Sincronizar sala** busca mensagens, presença e fotos pelo botão abaixo dos canais.
