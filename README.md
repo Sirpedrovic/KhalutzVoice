@@ -2,9 +2,17 @@
 
 Texto, voz, arquivos, música e compartilhamento de tela para Windows.
 
-[Baixar instalador 0.3.22](https://github.com/Sirpedrovic/KhalutzVoice/releases/download/v0.3.22/KhalutzVoice-Setup-0.3.22.exe) · [Versão portátil e notas](https://github.com/Sirpedrovic/KhalutzVoice/releases/tag/v0.3.22)
+[Baixar instalador 0.3.23](https://github.com/Sirpedrovic/KhalutzVoice/releases/download/v0.3.23/KhalutzVoice-Setup-0.3.23.exe) · [Versão portátil e notas](https://github.com/Sirpedrovic/KhalutzVoice/releases/tag/v0.3.23)
 
 O primeiro ingresso exige o kit privado do seu grupo. As atualizações preservam o acesso e os dados locais.
+
+## Versão 0.3.23
+
+- **Khalutz Music** começa a tocar mais rápido: a busca e o download do áudio acontecem numa única etapa.
+- O bot prepara antecipadamente até 5 músicas da fila. Ao pular ou terminar uma faixa, a próxima já está pronta e chega antes aos ouvintes.
+- `!clear` limpa a fila e também a música atual. O bot continua no canal.
+- O administrador vê quem é o DJ ao clicar no bot.
+- Quem hospeda o bot precisa estar atualizado para as novidades valerem.
 
 ## Versão 0.3.22
 
