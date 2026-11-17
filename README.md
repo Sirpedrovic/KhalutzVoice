@@ -2,9 +2,14 @@
 
 Texto, voz, arquivos, música e compartilhamento de tela para Windows.
 
-[Baixar instalador 0.3.27](https://github.com/Sirpedrovic/KhalutzVoice/releases/download/v0.3.27/KhalutzVoice-Setup-0.3.27.exe) · [Versão portátil e notas](https://github.com/Sirpedrovic/KhalutzVoice/releases/tag/v0.3.27)
+[Baixar instalador 0.4.1](https://github.com/Sirpedrovic/KhalutzVoice/releases/download/v0.4.1/KhalutzVoice-Setup-0.4.1.exe) · [Versão portátil e notas](https://github.com/Sirpedrovic/KhalutzVoice/releases/tag/v0.4.1)
 
 O primeiro ingresso exige o kit privado do seu grupo. As atualizações preservam o acesso e os dados locais.
+
+## Versão 0.4.1
+
+- Depois de fechar pela bandeja, o KhalutzVoice pode continuar ajudando a sala em segundo plano.
+- As configurações separam a inicialização com o Windows da exibição do ícone. O atalho reabre a mesma instância, e a bandeja oferece a opção de encerrar por completo.
 
 ## Versão 0.3.27
 
