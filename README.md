@@ -9,7 +9,7 @@ O primeiro ingresso exige o kit privado do seu grupo. As atualizações preserva
 ## Versão 0.4.1
 
 - Depois de fechar pela bandeja, o KhalutzVoice pode continuar ajudando a sala em segundo plano.
-- As configurações separam a inicialização com o Windows da exibição do ícone. O atalho reabre a mesma instância. Para parar o processo manualmente, finalize o KhalutzVoice no Gerenciador de Tarefas.
+- A edição instalada inicia com o Windows em segundo plano, com janela e ícone ocultos. O próprio Windows pode desativar essa inicialização. O atalho reabre a mesma instância. Para parar o processo manualmente, finalize o KhalutzVoice no Gerenciador de Tarefas.
 
 ## Versão 0.3.27
 
